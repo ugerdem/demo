@@ -5,4 +5,7 @@ my applicaiton read me file
 
 that is new line... 
 
+That my badd.. 
+help me.. 
+olmadı acaba...
 Merge Demo olmadı ikinci deneme
