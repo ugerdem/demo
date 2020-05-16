@@ -5,4 +5,4 @@ my applicaiton read me file
 
 that is new line... 
 
-Merge Demo
+Merge Demo olmadı ikinci deneme
